@@ -41,7 +41,7 @@ Ce projet implémente divers algorithmes de tri en C et analyse leur complexité
 Le programme génère des données aléatoires et applique divers algorithmes de tri pour mesurer leur temps d'exécution. La complexité temporelle est enregistrée et ultérieurement tracée pour analyser et comparer les performances des algorithmes.
 
 ### Tracé des Graphiques
-Les graphiques sont générés à l'aide du script Gnuplot plot.plg. Le script lit les données à partir de fichiers CSV et trace des graphiques de complexité temporelle pour différents algorithmes de tri.
+Les graphiques sont générés à l'aide du script Gnuplot plot.gnuplot. Le script lit les données à partir de fichiers CSV et trace des graphiques de complexité temporelle pour différents algorithmes de tri.
 
 ### Résultats
 
