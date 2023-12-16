@@ -66,7 +66,7 @@ ___Figure : Courbe qui Represente la complexite des differents Algorithmes de Tr
 ### Auteur
 
 Ibtissam BENABID\
-[![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-brightgreen?style=flat&logo=github&logoColor=white)](https://github.com/IbtissemeBENEBID)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-Profile-brightgreen?style=flat&logo=github&logoColor=white)](https://github.com/BenabidIbtissam)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibtissam-benabid/)
 
 
